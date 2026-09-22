@@ -1,16 +1,17 @@
-## Hi there 👋
+# Привіт, я Марія! 👋
 
-<!--
-**MaykaXX/MaykaXX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Студентка 2-го курсу кафедри комп'ютерних наук (спеціальність «Інженерія програмного забезпечення») ЧНУ ім. Юрія Федьковича.
 
-Here are some ideas to get you started:
+### 💻 Стек технологій та інструменти:
+- **Мови програмування:** C++, Java
+- **Інструменти розробки:** Git, GitHub, VS Code, Linux
+- **Дизайн:** Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Статистика активності на GitHub:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MaykaXX&show_icons=true&theme=radical&locale=uk" alt="MaykaXX GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaykaXX&layout=compact&theme=radical&locale=uk" alt="Top Languages" />
+</p>
+
+---
+📫 **Зв'язок:** Можете зв'язатися зі мною через GitHub або корпоративну пошту університету.
